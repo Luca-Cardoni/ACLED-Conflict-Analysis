@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+# --- MY ADD ---
+# Ignore raw data
+02_data/raw/
